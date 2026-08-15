@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Vibhavraju
-- 👀 I’m interested in .coding..
-- 🌱 I’m currently learning ..btech .
-- 💞️ I’m looking to collaborate on github...
-- 📫 How to reach me .itsvibhav1307@gmail,com..
-- 😄 Pronouns: .he..
-- ⚡ Fun fact: .i dont know any coding language ..
+# 👋 Hi, I'm Vibharvraju
 
-<!---
-Vibhavraju/Vibhavraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🎓 B.Tech CSE (Data Science) Student
+* 🤖 Interested in **AI, Machine Learning & Generative AI**
+* 💻 Currently learning **Python, DSA & ML**
+* 🌱 Building projects with **AI, Data Science & Full Stack**
+* 🚀 Exploring **LLMs, RAG & AI Agents**
+* 🤝 Open to collaborating on **AI/ML projects**
+* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+
+### 🛠️ Tech Stack
+
+`Python` `Java` `SQL` `Machine Learning` `GenAI`
+`React` `Spring Boot` `MongoDB` `Power BI` `Git`
+
+### 🚀 Projects
+
+* 🧬 **AI Learning DNA** — Personalized AI learning system
+* 📱 **AI Phone Usage Control** — Intelligent screen-time management
+* 🌱 **Smart Irrigation** — IoT-based automated irrigation
+* 📧 **Spam Email Detection** — Machine Learning classifier
+* 🤖 **Local AI Chatbot** — LLM + Ollama
+
+> **Learn • Build • Experiment • Repeat 🚀**
