@@ -6,7 +6,7 @@
 * 🌱 Building projects with **AI, Data Science & Full Stack**
 * 🚀 Exploring **LLMs, RAG & AI Agents**
 * 🤝 Open to collaborating on **AI/ML projects**
-* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me: **[itsvibhav1307@gmail.com](mailto:your-email@gmail.com)**
 
 ### 🛠️ Tech Stack
 
