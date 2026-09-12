@@ -2,8 +2,8 @@
 
 * 🎓 B.Tech CSE (Data Science) Student
 * 🤖 Interested in **AI, Machine Learning & Generative AI**
-* 💻 Currently learning **Python, DSA & ML**
-* 🌱 Building projects with **AI, Data Science & Full Stack**
+* 💻 Currently learned **Python, DSA & ML**
+* 🌱 Building projects with **AI, Data Science & RAG, LLM, Ai agents 
 * 🚀 Exploring **LLMs, RAG & AI Agents**
 * 🤝 Open to collaborating on **AI/ML projects**
 * 📫 Reach me: **[itsvibhav1307@gmail.com](mailto:your-email@gmail.com)**
